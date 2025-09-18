@@ -1,2 +1,1 @@
-# site
-Velvet Crow Games
+# Velvet Crow Games
