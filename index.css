@@ -92,7 +92,11 @@ section {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('images/vc-logo-light.png') no-repeat center center/cover;
+    background-color: #23204b;
+    background-image: url('images/vc-logo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    /* background: linear-gradient(#948cc0aa, #948cc0), url('images/vc-logo-light.jpg') no-repeat center center; */
     color: white;
     text-align: center;
     padding: 150px 0;
